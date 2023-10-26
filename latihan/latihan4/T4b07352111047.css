@@ -152,6 +152,7 @@ body {
 .header .judul {
     font-size: 40px;
     font-weight: bold;
+    text-align: center
 }
 
 .header ul li {
